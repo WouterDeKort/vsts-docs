@@ -75,7 +75,7 @@ steps:
   displayName: 'Run my script (injected from decorator)'
 ```
 
-## Installating the decorator
+## Installing the decorator
 
 In order to add a pipeline decorator to your organization, you must [install an extension](../../marketplace/install-extension.md).
 Only private extensions can contribute pipeline decorators.
